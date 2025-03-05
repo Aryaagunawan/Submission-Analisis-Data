@@ -6,7 +6,7 @@ This guide provides instructions on how to manage and work with the `Proyek-Anal
 
 1. Clone the repository:
     ```sh
-   https://github.com/Aryaagunawan/Proyek-Analisis-Data.git
+   https://github.com/Aryaagunawan/Submission-Analisis-Data.git
     ```
 2. Navigate to the project directory:
     ```sh
